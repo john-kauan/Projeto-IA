@@ -19,7 +19,7 @@ Antes de começar, você precisa ter instalado:
 
 1. Abra o Google Colab.
 2. Faça upload do arquivo **ProjetoIA.ipynb**.
-3. Faça upload também dos arquivos de teste (train.csv) e treino (test.cvs)
+3. Faça upload também dos arquivos de teste (test.csv) e treino (train.cvs)
    -(no nosso caso, a professora que disponibilizou um dataset).
 4. Clique em **Runtime > Run all**.
 5. O Colab irá:
